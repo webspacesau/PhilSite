@@ -23,6 +23,8 @@ url: "https://philbarclay.xyz" # the base hostname & protocol for your site, e.g
 # Permalink format (/blog/ is ignored for pages)
 permalink: /blog/:title
 
+timezone: Australia/Brisbane
+
 # Enable section IDs in frontmatter, useful for identifying current page
 # (used as a hook for styling etc)
 section: true
