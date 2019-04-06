@@ -9,7 +9,7 @@ intro_paragraph: >-
   <br>
 
   Co-Founder of [Webspace](https://webspace.net.au), an end-to-end digital
-  services and marketing agency.<br>
+  services and online agency.<br>
 
   <br>
 
