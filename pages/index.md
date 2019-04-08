@@ -8,8 +8,8 @@ intro_paragraph: >-
 
   <br>
 
-  Co-Founder of [Webspace](https://webspace.net.au), an end-to-end digital
-  services and online agency.<br>
+  Co-Founder of [Webspace](https://webspace.net.au), an end-to-end cloud, web
+  and digital services agency.<br>
 
   <br>
 
