@@ -1,7 +1,7 @@
 ---
 layout: contact
-title: Contact
-description: Contact Form - Digital Marketer and Business Coach | Phil Barclay
+title: Contact - Digital Marketer and Business Coach | Phil Barclay
+description: Contact Form
 permalink: /contact
 section: contact
 intro_paragraph: >-
