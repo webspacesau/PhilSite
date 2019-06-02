@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome - Digital Marketing and Services | Phil Barclay
+title: Welcome
 description: 'Entrepreneur and business coach based in Brisbane, Australia.'
 permalink: /
 section: home
