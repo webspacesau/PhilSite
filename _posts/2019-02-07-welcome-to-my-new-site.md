@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome to my new site
+description: Welcome to my new site
 author: phil_barclay
 date: '2019-02-07 12:02:42'
 intro_paragraph: Hey there
