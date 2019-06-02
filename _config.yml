@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Phil Barclay
+author: Phil Barclay
 email: hello@philbarclay.xyz
 description: >- # this means to ignore newlines until "baseurl:"
   Phil Barclay is an entrepreneur and business coach based in Brisbane, Australia.
@@ -38,7 +39,11 @@ analytics: true
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-  
+
+twitter:
+  username: philbarc
+  card: summary
+
 social:
   name: Phil Barclay
   links:
@@ -46,6 +51,8 @@ social:
     - https://twitter.com/PhilBarc
     - https://www.instagram.com/awyephil
     - https://www.linkedin.com/in/phillipbarclay
+    - https://www.facebook.com/philbarc
+
 # Compress CSS
 sass:
   style: compressed
