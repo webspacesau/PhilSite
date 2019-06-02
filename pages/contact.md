@@ -1,6 +1,7 @@
 ---
 layout: contact
 title: Contact
+description: Contact Form
 permalink: /contact
 section: contact
 intro_paragraph: >-
