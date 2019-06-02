@@ -11,9 +11,5 @@ intro_paragraph: >-
 
   Co-Founder of [Webspace](https://webspace.net.au), an end-to-end cloud, web
   and digital services agency.<br>
-
-  <br>
-
-  Thoughts here are my own.
 ---
-
+Currently focused on helping others achieve success and realise their dreams through digital marketing and coaching.
