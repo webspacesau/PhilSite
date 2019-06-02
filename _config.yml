@@ -39,6 +39,13 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   
+social:
+  name: Ben Balter
+  links:
+    - https://www.youtube.com/channel/UCHndXOE5MSrLDkjKmOJP5kA
+    - https://twitter.com/PhilBarc
+    - https://www.instagram.com/awyephil
+    - https://www.linkedin.com/in/phillipbarclay
 # Compress CSS
 sass:
   style: compressed
