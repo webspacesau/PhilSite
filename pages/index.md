@@ -1,6 +1,7 @@
 ---
 layout: home
-title: Welcome
+title: Phil Barclay
+description: 'Entrepreneur and business coach based in Brisbane, Australia.'
 permalink: /
 section: home
 intro_paragraph: >-
