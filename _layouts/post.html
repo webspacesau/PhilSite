@@ -3,7 +3,7 @@ layout: default
 ---
 {% assign author = site.data.authors[page.author] %}
 
-<h2>{{ page.title }}</h2>
+<h2>{{ page.heading }}</h2>
 
 <time datetime="{{ page.date }}">
   <small>
@@ -22,12 +22,12 @@ layout: default
   <ul>
     {% if page.previous.url %}
       <li>
-        <a href="{{page.previous.url}}" rel="prev">&laquo; {{page.previous.title}}</a>
+        <a href="{{page.previous.url}}" rel="prev">&laquo; {{page.previous.heading}}</a>
       </li>
     {% endif %}
     {% if page.next.url %}
       <li>
-        <a href="{{page.next.url}}" rel="next">{{page.next.title}} &raquo;</a>
+        <a href="{{page.next.url}}" rel="next">{{page.next.heading}} &raquo;</a>
       </li>
     {% endif %}
   </ul>
