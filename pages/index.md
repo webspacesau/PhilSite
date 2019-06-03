@@ -2,7 +2,7 @@
 layout: home
 title: Welcome - Digital Marketer and Business Coach | Phil Barclay
 heading: Welcome
-description: 'Entrepreneur and business coach based in Brisbane, Australia.'
+description: 'Digital marketer and business coach based in Brisbane, Australia.'
 permalink: /
 section: home
 intro_paragraph: >-
