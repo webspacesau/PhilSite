@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Welcome to my new site
+title: Welcome to my new site - Digital Marketer and Business Coach | Phil Barclay
+heading: Welcome to my new site
 description: Welcome to my new site
 author: phil_barclay
 date: '2019-02-07 12:02:42'
