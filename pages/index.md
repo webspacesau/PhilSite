@@ -6,7 +6,7 @@ description: 'Entrepreneur and business coach based in Brisbane, Australia.'
 permalink: /
 section: home
 intro_paragraph: >-
-  Phil is a digital marketer and business coach based in Brisbane, Australia.<br>
+  Phil Barclay is a digital marketer and business coach based in Brisbane, Australia.<br>
 
   <br>
 
