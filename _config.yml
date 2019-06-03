@@ -44,6 +44,33 @@ twitter:
   username: philbarc
   card: summary
 
+social-network-links:
+  rss: true
+  email: hello@philbarclay.xyz
+  facebook: philbarc
+# github: daattali
+  twitter: philbarc
+#  reddit: yourname
+#  google-plus: +DeanAttali
+  linkedin: phillipbarclay
+#  xing: yourname
+#  stackoverflow: "3943160/daattali"
+#  snapchat: deanat78
+#  instagram: deanat78
+#  youtube: user/deanat78
+#  spotify: yourname
+#  telephone: +14159998888
+#  steam: deanat78
+#  twitch: yourname
+#  yelp: yourname
+
+# Select which share links to show in posts
+share-links-active:
+  twitter: true
+  facebook: true
+  google: false
+  linkedin: true
+
 social:
   name: Phil Barclay
   links:
