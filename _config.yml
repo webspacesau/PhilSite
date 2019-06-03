@@ -45,7 +45,7 @@ twitter:
   card: summary
 
 social-network-links:
-  rss: true
+  rss: false
   email: hello@philbarclay.xyz
   facebook: philbarc
 # github: daattali
